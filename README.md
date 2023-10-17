@@ -1,5 +1,6 @@
 # MacroPadFrontier
 A small RP2040-powered macropad for video and tabletop gaming productivity.
+# Fair warning! This is a work in progress and not complete, be patient!
 
 ## Aims and Objectives
 
